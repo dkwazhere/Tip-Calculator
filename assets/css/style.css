@@ -40,8 +40,21 @@ form label {
   font-weight: bold;
 }
 
+select {
+  background-color: #fff;
+}
+
+select:hover {
+  background-color: #a7aeaf;
+}
+
 form input[type="text"] {
+  background-color: #fff;
   width: 90px;
+}
+
+form input:hover {
+  background-color: #a7aeaf;
 }
 
 button {
